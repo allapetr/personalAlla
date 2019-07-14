@@ -10,19 +10,19 @@ theme = "timer-hugo"
     # Navbar Menus
     [[menu.nav]]
         name    = "About"
-        url     = "#about"
+        url     = "about"
         weight  = 2
     [[menu.nav]]
         name    = "Learn"
-        url     = "#learn"
+        url     = "learn"
         weight  = 3
     [[menu.nav]]
         name    = "Pricing"
-        url     = "#pricing"
+        url     = "pricing"
         weight  = 4
     [[menu.nav]]
         name    = "Contact"
-        url     = "#contact"
+        url     = "contact"
         weight  = 5
 
 # Site Params
