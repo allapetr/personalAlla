@@ -412,7 +412,7 @@ a:hover {
   border-radius: 0;
 }
 
-#call-to-action {
+#contact {
   background: #02bdd5;
   background-size: cover;
   background-attachment: fixed;
@@ -422,25 +422,24 @@ a:hover {
   color: #fff;
 }
 
-#call-to-action .block {
+#contact .block {
   position: relative;
   z-index: 9;
   color: #fff;
 }
 
-#call-to-action .block h2 {
+#contact .block h2 {
   margin-bottom: 15px;
   color: #fff;
 }
 
-#call-to-action .block p {
-  font-size: 15px;
+#contact .block p {
   font-weight: 300;
   font-family: 'Roboto', sans-serif;
   margin-top: 20px;
 }
 
-#call-to-action .block .btn-contact {
+#contact .block .btn-contact {
   background: #fff;
   border: 2px solid #fff;
   color: #02bdd5;
@@ -453,11 +452,11 @@ a:hover {
   transition: all linear .2s;
 }
 
-#call-to-action .block .btn-contact i {
+#contact .block .btn-contact i {
   margin-right: 10px;
 }
 
-#call-to-action .block .btn-contact:hover {
+#contact .block .btn-contact:hover {
   color: #fff;
   background: #02bdd5;
 }
@@ -642,6 +641,9 @@ figure figcaption p {
   font-size: 14px;
   margin-bottom: 0;
   margin-top: 5px;
+}
+#pricing {
+  padding: 80px 0;
 }
 
 #learn {

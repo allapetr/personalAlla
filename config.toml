@@ -63,9 +63,9 @@ theme = "timer-hugo"
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "SO WHAT YOU THINK ?"
-        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-        btnText = "Contact with me"
+        title   = "Questions and Bookings"
+        content = "If you have any questions or want to book a class, feel free to get in touch using the form below"
+        btnText = "Send"
         btnURL  = "/contact"
 
     # Portfolio Section On Homepage

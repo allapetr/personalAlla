@@ -1,0 +1,44 @@
+{{ if .Site.Params.cta.enable }}
+{{ "<!-- Contact Section Start -->" | safeHTML }}
+<section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    {{ with .Site.Params.cta.title }}<h2 class="title wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">{{ . }}</h1>{{ end }}
+                    {{ with .Site.Params.cta.content }}<p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">{{ . | safeHTML }}</p>{{ end }}
+                    <form name="contact" method="POST" data-netlify="true" class="col-md-6 text-left mx-auto">
+                        <div style="display:none">
+                            <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+                        </div>
+                        <div class="form-group">
+                            <label for="nameText">Your Name</label>
+                            <input class="form-control" type="text" name="name" id="nameText" placeholder="Jane Doe"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="emailText">Your Email</label>
+                            <input class="form-control"type="email" name="email" id="emailText" placeholder="email@example.com"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="query">You want to</label>
+                            <select class="form-control" name="role[]" id="query">
+                                <option value="question">Ask a question</option>
+                                <option value="class">Book a class</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Message</label>
+                            <textarea name="message" class="form-control" id="message" rows="5" placeholder="Your message"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">{{ .Site.Params.cta.btnText }}</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+{{ "<!-- Contact Section End -->" | safeHTML }}
+{{ end }}
