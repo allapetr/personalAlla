@@ -55,6 +55,11 @@ theme = "timer-hugo"
         content = "I am Alla Petrichei <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
         image   = "images/about.jpg"
 
+    [params.pricing]
+        title = "Pricing"
+        rate = "Prices in USD are converted to CAD, GBP or EUR according to the day's exchange rate"
+        adjust = "If you live outside North America & Western/Central Europe pricing will be adjusted according to your country's fees for music education"
+
     # Call to Action
     [params.cta]
         enable  = true
