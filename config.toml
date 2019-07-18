@@ -67,11 +67,3 @@ theme = "timer-hugo"
         content = "If you have any questions or want to book a class, feel free to get in touch using the form below"
         btnText = "Send"
         btnURL  = "/contact"
-
-    # Portfolio Section On Homepage
-    [params.portfolio]
-        enable  = true
-        title   = "Latest Works"
-        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
-
-    
