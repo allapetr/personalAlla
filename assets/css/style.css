@@ -649,11 +649,8 @@ figure figcaption p {
   margin-bottom: 0;
   margin-top: 5px;
 }
-#pricing {
-  padding: 80px 0;
-}
 
-#learn {
+#learn, #reviews, #pricing {
   padding: 80px 0;
 }
 
