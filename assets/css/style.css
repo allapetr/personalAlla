@@ -21,7 +21,6 @@
 }
 
 .card {
-  border: 0;
   border-radius: 0px;
   -webkit-box-shadow: 0 3px 0px 0 rgba(0, 0, 0, .08);
   box-shadow: 0 3px 0px 0 rgba(0, 0, 0, .08);
@@ -29,16 +28,6 @@
   padding: 2.25rem 0;
   position: relative;
   will-change:transform; 
-}
-.card :after {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 0%;
-  height: 5px;
-  background-color: #57e2b2;
-  transition: 0.5s;
 }
   
 .card  .card-header {
