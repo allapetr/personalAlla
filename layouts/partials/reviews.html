@@ -1,0 +1,17 @@
+{{ "<!-- Reviews Section Start -->" | safeHTML }}
+<section id="reviews">
+    <div class="container">
+        <div class="section-heading">
+            {{ with .Site.Data.reviews.title }}<h2 class="wow fadeInDown" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+        </div>
+        <div class="row">
+            {{ range $index, $elemrnt := .Site.Data.reviews.item }}
+            <div class="review-body col-sm-6 col-lg-6">
+                {{ with .text }}<p>{{ . }}</p>{{ end }}
+                {{ with .author }}<span>{{ . }}</span>{{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ "<!-- Reviews Section End -->" | safeHTML }}
