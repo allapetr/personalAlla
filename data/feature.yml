@@ -1,34 +1,42 @@
 enable  : true
-title   : What Can I Learn?
+title   : What Can You Learn?
 subtitle: >
   Multiple things <br> more awesome things
 item    :
-  - icon  : ion-ios-flask-outline
-    title : Media heading
+  - icon  : ion-ios-play
+    title : Violin and Viola Lessons
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      - Reading western music notation and sight reading
 
-  - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      - Elements of music history and theory
+      
+      - Basic harmony and form
 
-  - icon  : ion-ios-americanfootball-outline
-    title : Free updates
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      - How to play your instrument (tailored technique)
 
-  - icon  : ion-ios-keypad-outline
-    title : Solid Support
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      - Improvisation and composition techniques
 
-  - icon  : ion-ios-barcode-outline
-    title : Simple Installation
+      - Effective instrument practice
+
+      - Effective music memorisation
+
+      - Performance technique (playing under pressure)
+
+      - Injury prevention and recovery
+
+      - Preparing for Grades or any other exams
+
+  - icon  : ion-ios-musical-notes
+    title : Music Theory
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-  
-  - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      -      Reading western music notation 
+
+      -      Understanding of music history and its important composers
+
+      -      Understanding of musical notation, intervals, keys, scales and chords
+
+      -      Use of harmony
+
+      -      Music analysis
+
+      -      Preparing for Grades 1-8 Music Theory
