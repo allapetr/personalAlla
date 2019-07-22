@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Violin Plus"
 theme = "timer-hugo"
 
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
 # Site Menus
@@ -45,7 +49,7 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "images/slider.jpg"
         heading = "Online Violin, Viola & Music Theory"
-        description = "2-3 lines of text about services"
+        description = "Online lessons from the comfort of your home for all levels and ages tailored to your preferences and needs. Tutor Alla Petrichei has more than 5 years of international teaching experience and 18 years of performing experience as soloist."
         btn     = true
         btnText = "Book a taster session"
         btnURL  = "#contact"
@@ -56,7 +60,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "I am Alla Petrichei <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+        content = "Hi! My name is [Alla Petrichei](https://allapetrichei.com/). I am a Bachelor’s and Masters in Violin Performance graduate of the [Royal Northern College of Music](https://www.rncm.ac.uk/) (UK) and hold a [Trinity College London Diploma](https://www.trinitycollege.com/site/?id=1587) in Violin Performance with Distinction.<br/><br/>I have been teaching internationally for 5 years and have worked with students of all levels and ages ranging between 5 and 65. I am experienced in delivering one-to-one classes and leading small and large ensembles as a private tutor as well as a collaborator with established educational programmes such as the RNCM Young Strings, the Manchester International Society, and the Artis Education Programme in the UK, as well as the Antigua Music Camp in Antigua and Barbuda.<br/><br/> I approach my teaching with patience and tailor each lesson to my students’ preferences and needs. I love to share with them the knowledge I have gained in my 18 years of experience as a soloist, chamber musician and orchestral player. Since 2015, I also train regularly in Dalcroze Eurhythmics, Alexander Technique, Feldenkrais and Kodály Methods, all of which help me provide an enjoyable and body and mind friendly approach to music."
         image   = "images/about.jpg"
 
     [params.pricing]
