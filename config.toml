@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://volinplus.org/"
 languageCode = "en-us"
 title = "Violin Plus"
 theme = "timer-hugo"
