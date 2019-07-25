@@ -42,7 +42,7 @@ theme = "timer-hugo"
     description = "Violin Plus"
     author = "Alla Petrichei"
     # Google Analitycs
-    googleAnalitycsID = ""
+    # googleAnalitycsID = ""
 
     # Banner Section
     [params.banner]
