@@ -1,4 +1,4 @@
-baseURL = "https://volinplus.org/"
+baseURL = "https://violinplus.org/"
 languageCode = "en-us"
 title = "Violin Plus"
 theme = "timer-hugo"
