@@ -273,7 +273,7 @@ a:hover {
 }
 
 .top-bar.animated-header {
-  padding: 7px 0;
+  padding: 10px 0;
   background: #fff;
   box-shadow: none;
 }
@@ -291,13 +291,18 @@ a:hover {
 }
 
 .navbar .nav-item .nav-link {
+  text-align: center;
+  padding: 0px;
   color: #444 !important;
   font-size: 16px;
   font-weight: 500;
   transition: .3s all;
   text-transform: uppercase;
-  padding: 5px 15px;
   display: block;
+}
+
+.navbar .nav-item {
+  padding: 8px 15px;
 }
 
 .navbar .nav-item .nav-link:hover {
