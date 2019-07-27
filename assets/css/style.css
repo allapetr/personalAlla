@@ -1,6 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
+.navbar-brand img {
+  max-height: 55px;
+}
+
+.navbar-brand {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
 .review-body {
   padding: 25px;
 }
@@ -265,7 +273,7 @@ a:hover {
 }
 
 .top-bar.animated-header {
-  padding: 20px 0;
+  padding: 7px 0;
   background: #fff;
   box-shadow: none;
 }
