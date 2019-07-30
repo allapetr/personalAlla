@@ -65,7 +65,7 @@ theme = "timer-hugo"
 
     [params.pricing]
         title = "Pricing"
-        rate = "Prices in USD are converted to CAD, GBP or EUR according to the day's exchange rate"
+        rate = "Prices in GBP are converted to CAD, USD or EUR according to the day's exchange rate"
         adjust = "If you live outside North America & Western/Central Europe pricing will be adjusted according to your country's fees for music education"
 
     # Call to Action
