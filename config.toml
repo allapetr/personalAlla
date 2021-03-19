@@ -29,13 +29,17 @@ theme = "timer-hugo"
         url     = "reviews"
         weight  = 5
     [[menu.nav]]
+        name    = "Vision"
+        url     = "vision"
+        weight  = 6
+    [[menu.nav]]
         name    = "Pricing"
         url     = "pricing"
-        weight  = 6
+        weight  = 7
     [[menu.nav]]
         name    = "Contact"
         url     = "contact"
-        weight  = 7
+        weight  = 8
 
 # Site Params
 [params]
@@ -67,6 +71,12 @@ theme = "timer-hugo"
         content = "Hi! My name is [Alla Petrichei](https://allapetrichei.com/). I am a Bachelor’s and Masters in Violin Performance graduate of the [Royal Northern College of Music](https://www.rncm.ac.uk/) (UK) and hold a [Trinity College London Diploma](https://www.trinitycollege.com/site/?id=1587) in Violin Performance with Distinction.<br/><br/>I have been teaching internationally for 5 years and have worked with students of all levels and ages ranging between 5 and 65. I am experienced in delivering one-to-one classes and leading small and large ensembles as a private tutor as well as a collaborator with established educational programmes such as the RNCM Young Strings, the Manchester International Society, and the Artis Education Programme in the UK, as well as the Antigua Music Camp in Antigua and Barbuda.<br/><br/> I approach my teaching with patience and tailor each lesson to my students’ preferences and needs. I love to share with them the knowledge I have gained in my 18 years of experience as a soloist, chamber musician and orchestral player. Since 2015, I also train regularly in Dalcroze Eurhythmics, Alexander Technique, Feldenkrais and Kodály Methods, all of which help me provide an enjoyable and body and mind friendly approach to music."
         image   = "images/about.jpg"
 
+    # Homepage Vision Section
+    [params.vision]
+        enable  = true
+        title   = "MY VISION"
+        content = "This is my vision."
+        
     [params.videos]
         enable  = true
         title   = "VIDEOS"
