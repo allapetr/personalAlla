@@ -669,8 +669,12 @@ figure figcaption p {
   margin-top: 5px;
 }
 
-#videos, #learn, #reviews, #pricing {
+#learn, #reviews, #pricing {
   padding: 80px 0;
+}
+
+#videos {
+  padding: 0px 0;
 }
 
 #pricing .row {
