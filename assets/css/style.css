@@ -481,7 +481,7 @@ a:hover {
 }
 
 #about {
-  padding: 80px 0;
+  padding: 0px 0;
 }
 
 #about .block {
@@ -669,12 +669,8 @@ figure figcaption p {
   margin-top: 5px;
 }
 
-#learn, #reviews, #pricing {
+#videos, #learn, #reviews, #pricing {
   padding: 80px 0;
-}
-
-#videos {
-  padding: 0px 0;
 }
 
 #pricing .row {
