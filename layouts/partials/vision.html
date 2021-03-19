@@ -1,0 +1,19 @@
+{{ if .Site.Params.vision.enable }}
+{{ "<!-- Vision Section Start -->" | safeHTML }}
+<section id="vision">
+    <div class="container">
+        <div class="section-heading">
+            {{ with .Site.Params.vision.title }}<h2 class="wow fadeInDown" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="block">
+                    {{ with .Site.Params.vision.content }}<p>{{ . | markdownify | safeHTML }}</p>{{ end }}
+                </div>
+            </div>
+        </div>
+        
+    </div> 
+</section>
+{{ "<!-- Vision Section End -->" | safeHTML }}
+{{ end }}
