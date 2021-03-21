@@ -403,7 +403,7 @@ a:hover {
 #hero-area h2 {
   font-size: 18px;
   font-weight: 400;
-  margin-bottom: 38px;
+  margin-bottom: -20px;
   line-height: 27px;
   text-transform: inherit;
   color: #666;
