@@ -61,7 +61,7 @@ theme = "timer-hugo"
         description2 = "Violin Plus offers online violin, viola and music theory lessons for all ages and levels. Lessons are taught by an enthusiastic professional violinist with 7 years of experience in music education and more than 20 years of experience in violin performance."
         description3 = "Lessons are available in English, Spanish and Romanian."
         btn     = true
-        btnText = "Book a taster session"
+        btnText = "Book a free taster session"
         btnURL  = "#contact"
         [[params.banner.flipText]]
             title   = "Lessons"
