@@ -29,17 +29,13 @@ theme = "timer-hugo"
         url     = "reviews"
         weight  = 5
     [[menu.nav]]
-        name    = "Vision"
-        url     = "vision"
-        weight  = 6
-    [[menu.nav]]
         name    = "Pricing"
         url     = "pricing"
-        weight  = 7
+        weight  = 6
     [[menu.nav]]
         name    = "Contact"
         url     = "contact"
-        weight  = 8
+        weight  = 7
 
 # Site Params
 [params]
