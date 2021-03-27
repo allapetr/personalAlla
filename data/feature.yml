@@ -6,7 +6,7 @@ item    :
   - icon  : ion-ios-play
     title : Violin and Viola Lessons
     description : >
-      - Reading western music notation and sight reading
+      - Reading Western music notation and sight reading
 
       - Elements of music history and theory
       
@@ -29,7 +29,11 @@ item    :
   - icon  : ion-ios-musical-notes
     title : Music Theory
     description : >
-      -      Reading western music notation 
+      -      Reading Western music notation 
+      
+      -      Understanding of rhythm 
+      
+      -      Understanding of pitch and transposition
 
       -      Understanding of music history and its important composers
 
