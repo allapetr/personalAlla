@@ -37,14 +37,16 @@
                         </div>
                         <div class="form-group">
                             <label for="query">Purpose of message <span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;">*</span></label>
-                            <select class="form-control" name="role[]" id="query">
+                            <select class="form-control" name="role[]" required="required" id="query">
+                                <option value=""></option>
                                 <option value="question">Ask a question</option>
                                 <option value="class">Book a class</option>
                             </select>
                         </div>
                         <div class="form-group">
                             <label for="reference">How did you hear about Violin Plus? <span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;">*</span></label>
-                            <select class="form-control" name="role[]" id="reference">
+                            <select class="form-control" name="role[]" required="required" id="reference">
+                                <option value=""></option>
                                 <option value="google">Google</option>
                                 <option value="facebook">Facebook</option>
                                 <option value="recommendation">Recommendation</option>
