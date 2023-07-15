@@ -25,7 +25,7 @@
     {{ "<!-- hover -->" | safeHTML }}
     <link rel="stylesheet" href="{{ "plugins/hover/hover-min.css" | absURL }}">
     {{ "<!-- template main css file -->" | safeHTML }}
-    {{ $styles := resources.Get "assets/css/style.css" | minify}}
+    {{ $styles := resources.Get "css/style.css" | minify}}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-193132299-1">
