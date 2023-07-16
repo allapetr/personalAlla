@@ -4,7 +4,7 @@ title = "Online Music Lessons | Violin Plus Music Studio"
 theme = "timer-hugo"
 
 [blackfriday]
-  plainIDAnchors = false
+  plainIDAnchors = true
   hrefTargetBlank = true
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -36,8 +36,7 @@ theme = "timer-hugo"
         name    = "Blog"
         url     = "https://google.com/"
         weight  = 7
-        [menu.nav.params]
-          rel = 'external'
+        plainIDAnchors = false
     [[menu.nav]]
         name    = "Contact"
         url     = "contact"
