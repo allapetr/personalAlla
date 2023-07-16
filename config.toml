@@ -33,9 +33,13 @@ theme = "timer-hugo"
         url     = "pricing"
         weight  = 6
     [[menu.nav]]
+        name    = "Blog"
+        url     = "blog"
+        weight  = 7
+    [[menu.nav]]
         name    = "Contact"
         url     = "contact"
-        weight  = 7
+        weight  = 8
 
 # Site Params
 [params]
