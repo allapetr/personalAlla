@@ -14,7 +14,7 @@ theme = "timer-hugo"
     # Navbar Menus
     [[menu.nav]]
         name    = "About"
-        url     = "about"
+        url     = "#about"
         weight  = 2
     [[menu.nav]]
         name    = "Videos"
