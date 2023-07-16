@@ -32,11 +32,10 @@ theme = "timer-hugo"
         name    = "Pricing"
         url     = "pricing"
         weight  = 6
-    [[menu.nav]]
+    [[menu.external]]
         name    = "Blog"
         url     = "https://google.com/"
         weight  = 7
-        plainIDAnchors = false
     [[menu.nav]]
         name    = "Contact"
         url     = "contact"
