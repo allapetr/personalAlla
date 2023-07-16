@@ -32,7 +32,7 @@ theme = "timer-hugo"
         name    = "Pricing"
         url     = "pricing"
         weight  = 6
-    [[menu.external]]
+    [[menu.nav.external]]
         name    = "Blog"
         url     = "https://google.com/"
         weight  = 7
