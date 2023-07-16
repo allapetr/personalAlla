@@ -36,7 +36,7 @@ theme = "timer-hugo"
         name    = "Blog"
         url     = "https://google.com/"
         weight  = 7
-        [menu.main.params]
+        [menu.nav.params]
           rel = 'external'
     [[menu.nav]]
         name    = "Contact"
