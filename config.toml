@@ -34,7 +34,7 @@ theme = "timer-hugo"
         weight  = 6
     [[menu.nav]]
         name    = "Blog"
-        pageRef = "https://google.com/"
+        url     = "https://google.com/"
         weight  = 7
         [menu.main.params]
           rel = 'external'
