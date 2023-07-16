@@ -14,7 +14,7 @@ theme = "timer-hugo"
     # Navbar Menus
     [[menu.nav]]
         name    = "About"
-        url     = "#about"
+        url     = "about"
         weight  = 2
     [[menu.nav]]
         name    = "Videos"
@@ -32,7 +32,7 @@ theme = "timer-hugo"
         name    = "Pricing"
         url     = "pricing"
         weight  = 6
-    [[menu.nav.external]]
+    [[menu.nav]]
         name    = "Blog"
         url     = "https://google.com/"
         weight  = 7
