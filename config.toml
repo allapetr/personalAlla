@@ -47,7 +47,7 @@ theme = "timer-hugo"
     logo = "images/logo.png"
     dateFormat = "6 January 2006"
     # Meta data
-    description = "Violin Plus"
+    description = "Violin Plus Music Studio"
     author = "Alla Petrichei"
     # Google Analitycs
     # googleAnalitycsID = ""
@@ -55,8 +55,8 @@ theme = "timer-hugo"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "images/slider.jpg"
-        heading = "Online Violin, Viola & Music Theory"
+        bgImage = "images/logo.png"
+        heading = "Violin & Music Theory"
         description1 = "Do you want to learn to play your favourite tune on the violin or the viola, prepare a practical or music theory exam or improve your playing for your own enjoyment?" 
         description2 = "Violin Plus offers online violin, viola and music theory lessons for all ages and levels. Lessons are taught by an enthusiastic professional violinist with 7 years of experience in music education and more than 20 years of experience in violin performance."
         description3 = "Lessons are available in English, Spanish and Romanian."
@@ -64,7 +64,7 @@ theme = "timer-hugo"
         btnText = "Book a free taster session"
         btnURL  = "#contact"
         [[params.banner.flipText]]
-            title   = "Lessons"
+            title   = "Online Lessons"
 
     # Homepage About Section
     [params.about]
