@@ -55,7 +55,7 @@ theme = "timer-hugo"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "images/logo.png"
+        bgImage = "images/slider.jpg"
         heading = "Violin & Music Theory"
         description1 = "Do you want to learn to play your favourite tune on the violin or the viola, prepare a practical or music theory exam or improve your playing for your own enjoyment?" 
         description2 = "Violin Plus offers online violin, viola and music theory lessons for all ages and levels. Lessons are taught by an enthusiastic professional violinist with 7 years of experience in music education and more than 20 years of experience in violin performance."
