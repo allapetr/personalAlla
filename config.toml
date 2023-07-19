@@ -1,6 +1,6 @@
 baseURL = "https://violinplus.org/"
 languageCode = "en-us"
-title = "Fine Music Education | Violin Plus Music Studio"
+title = "Your Finest Music Education | Violin Plus Music Studio"
 theme = "timer-hugo"
 
 [blackfriday]
