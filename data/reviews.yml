@@ -1,17 +1,34 @@
 enable  : true
 title : Reviews
 item    :
-  - author : Karen - Senior People Manager, 46 years old
+  - author : Karen - 46 years old, United Kingdom
     text : >
       "I’ve been studying with Alla for five years and I cannot recommend her highly enough. She is passionate about the learning process and makes learning violin fun and enjoyable. My approach to playing has been totally transformed thanks to her. Most recently, Alla has given me tremendous support in achieving a Merit in my ABRSM Grade 5 Violin Practical exam and a Distinction in my Grade 5 Music Theory exam."
-  - author : Chris - Health Informatician, 35 years old
+  
+  - author : Chris - 35 years old, United Kingdom
     text : >
       "I like Alla's positive and calm approach to teaching. As well as identifying aspects of playing that could be improved, she is good at coming up with strategies to overcome the problem. Ever since I started studying with her, I have found playing in orchestra easier and been more confident."
 
-  - author : Kawthar - 29 years old
+  - author : Kawthar - 29 years old, Kuwait
     text : >
       "Joining Alla's violin class was the best decision I made. She is an incredible, passionate and dedicated teacher. She always motivated and supported me as a beginner and was very patient. If you doubt registering with her, as her former student I would say: Go for it! She is the best!"
 
-  - author : Akiko - 32 years old
+  - author : Akiko - 32 years old, Japan
     text : >
       "During my beginner violin course, Alla was very good at helping everybody to relax and enjoy being a part of the group while we learn. She was really enthusiastic, clear, logical in her explanations and had many enjoyable teaching techniques. All the lessons were great fun!"
+
+  - author : Rudolph - 45 years old, Australia
+    text : >
+      "Alla was absolutely delightful for my son’s lesson and immediately put him at ease. She was extremely attentive and her instruction was efficient yet kind. She listened to our needs prior to the lesson and was creative in addressing them. His posture and overall movement with the instrument has already noticeably improved. Looking forward to more lessons with Alla."
+
+  - author : Jeff - 35 years old, United States
+    text : >
+      "Alla did a wonderful job with my son. She is patient, thorough, and has such an energetic and positive vibe. We were very lucky to have Alla as our first attempt at finding a teacher. We will be scheduling many more lessons with her."
+
+  - author : Nana - 17 years old, United States
+    text : >
+      "She is a great teacher, knows how to connect with the music and the student and their needs. She is knowledgeable, and easy to reach. She is also friendly and always willing to help."
+
+  - author : Shawn - 34 years old, Canada
+    text : >
+      "Cleaning up old habits. In order to launch into greater heights on the violin, I'm thankful for Alla's guidance or "spring cleaning". Alla continue to create fresh awareness which will benefit the big picture. Nipping issues in the bud before they become a chronic condition. Also, Alla has the ability make musical theory such a joy. I am looking forward to the next lesson. Thank you!"
