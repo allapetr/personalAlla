@@ -39,7 +39,7 @@ theme = "timer-hugo"
     [[menu.nav]]
         name    = "Blog"
         url     = "blog"
-        weight  = 8
+        weight  = 
     [[menu.nav]]
         name    = "Contact"
         url     = "contact"
