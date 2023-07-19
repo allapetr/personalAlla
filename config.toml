@@ -82,8 +82,8 @@ theme = "timer-hugo"
     [params.vision]
         enable  = true
         title   = "OUR MISSION"
-        content = "Violin Plus Music Studio is here to make a lasting difference and it has a clear mission - to offer worldwide access to outstanding music education. This is rooted in my own struggles as a young musician searching for mentors who hold both the best technical preparation and an well-rounded approach to education centered on wellbeing. At Violin Plus we use technology to connect music students and teachers from all corners of the world who perhaps would have otherwise not had the chance to meet, but share the deepest love for music."
-        image   = "images/20785834_1911840749077278_4433223125080411225_o.jpg"
+        content = "Violin Plus Music Studio is here to make a lasting difference and it has a clear mission - to offer worldwide access to outstanding music education. As Alla Petrichei, the founder of Violin Plus, experienced in her own journey as a growing young musician it is very challenging for students to find mentors who have both the best technical and musical knowledge and a well-rounded approach to education centered on wellbeing. Violin Plus uses technology to connect the finest music teachers who truly have their students' best interest at heart with students from all corners of the world. There are no bounderies, so let's make the world a better place through music!"
+        image   = "images/about.jpg"
 
     [params.videos]
         enable  = true
