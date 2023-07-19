@@ -1,19 +1,22 @@
-{{ if .Site.Params.vision.enable }}
-{{ "<!-- Vision Section Start -->" | safeHTML }}
+{{ if .Site.Params.about.enable }}
+{{ "<!-- Mission Section Start -->" | safeHTML }}
 <section id="mission">
     <div class="container">
         <div class="section-heading">
-            {{ with .Site.Params.vision.title }}<h2 class="wow fadeInDown" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+            {{ with .Site.Params.about.title }}<h2 class="wow fadeInDown" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
         </div>
         <div class="row">
+            <div class="col-sm-6 mb-4">
+                {{ with .Site.Params.mission.image }}<img src="{{ . | absURL }}" alt="mission-image">{{ end }}
+            </div>
             <div class="col-sm-6">
                 <div class="block">
-                    {{ with .Site.Params.vision.content }}<p>{{ . | markdownify | safeHTML }}</p>{{ end }}
+                    {{ with .Site.Params.mission.content }}<p>{{ . | markdownify | safeHTML }}</p>{{ end }}
                 </div>
             </div>
         </div>
         
     </div> 
 </section>
-{{ "<!-- Vision Section End -->" | safeHTML }}
+{{ "<!-- Mission Section End -->" | safeHTML }}
 {{ end }}
