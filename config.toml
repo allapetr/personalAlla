@@ -21,8 +21,8 @@ theme = "timer-hugo"
         url     = "tutor"
         weight  = 3
     [[menu.nav]]
-        name    = "Videos"
-        url     = "videos"
+        name    = "Gallery"
+        url     = "gallery"
         weight  = 4
     [[menu.nav]]
         name    = "Learn"
@@ -83,7 +83,7 @@ theme = "timer-hugo"
 
     [params.videos]
         enable  = true
-        title   = "VIDEOS"
+        title   = "GALLERY"
         
         
     [params.pricing]
