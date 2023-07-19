@@ -480,45 +480,45 @@ a:hover {
   background: #d9ac16;
 }
 
-#about {
+#tutors {
   padding: 80px 0 0 0;
 }
 
-#about .block {
+#tutors .block {
   padding-left: 0px;
   padding-right: 0px;
 }
 
-#about .block p {
+#tutors .block p {
   text-align: justify;
 }
 
-#about img {
+#tutors img {
   max-width: 100%;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 10px;
 }
 
-.about-feature .block {
+.tutors-feature .block {
   color: #fff;
   padding: 85px 65px;
   float: left;
 }
 
-.about-feature .block p {
+.tutors-feature .block p {
   font-weight: 300;
 }
 
-.about-feature .about-feature-1 {
+.tutors-feature .tutors-feature-1 {
   background: #d9ac16;
 }
 
-.about-feature .about-feature-2 {
+.tutors-feature .tutors-feature-2 {
   background: #00B0C7;
 }
 
-.about-feature .about-feature-3 {
+.tutors-feature .tutors-feature-3 {
   background: #00A6BB;
 }
 
@@ -670,7 +670,7 @@ figure figcaption p {
   margin-top: 5px;
 }
 
-#mission, #videos, #learn, #reviews, #pricing {
+#mission, #videos, #learn, #reviews, #pricing, #tutors {
   padding: 80px 0 0 0;
 }
 
