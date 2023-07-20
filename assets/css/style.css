@@ -480,45 +480,45 @@ a:hover {
   background: #d9ac16;
 }
 
-#tutors, #mission {
+#tutor, #mission {
   padding: 80px 0 0 0;
 }
 
-#tutors .block, #mission .block {
+#tutor .block, #mission .block {
   padding-left: 0px;
   padding-right: 0px;
 }
 
-#tutors .block p, #mission .block p {
+#tutor .block p, #mission .block p {
   text-align: justify;
 }
 
-#tutors img, #mission img {
+#tutor img, #mission img {
   max-width: 100%;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 10px;
 }
 
-.tutors-feature .block, .mission-feature .block {
+.tutor-feature .block, .mission-feature .block {
   color: #fff;
   padding: 85px 65px;
   float: left;
 }
 
-.tutors-feature .block p, .mission-feature .block p {
+.tutor-feature .block p, .mission-feature .block p {
   font-weight: 300;
 }
 
-.tutors-feature .tutors-feature-1, .mission-feature .mission-feature-1 {
+.tutor-feature .tutors-feature-1, .mission-feature .mission-feature-1 {
   background: #d9ac16;
 }
 
-.tutors-feature .tutors-feature-2, .mission-feature .mission-feature-2 {
+.tutor-feature .tutors-feature-2, .mission-feature .mission-feature-2 {
   background: #00B0C7;
 }
 
-.tutors-feature .tutors-feature-3, .mission-feature .mission-feature-3 {
+.tutor-feature .tutors-feature-3, .mission-feature .mission-feature-3 {
   background: #00A6BB;
 }
 
@@ -670,7 +670,7 @@ figure figcaption p {
   margin-top: 5px;
 }
 
-#mission, #videos, #learn, #reviews, #pricing, #tutors {
+#mission, #gallery, #learn, #reviews, #pricing, #tutor {
   padding: 80px 0 0 0;
 }
 
