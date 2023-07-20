@@ -83,6 +83,7 @@ theme = "timer-hugo"
     [params.videos]
         enable  = true
         title   = "GALLERY"
+        image   = "images/image1.jpeg"
         
         
     [params.pricing]
