@@ -1,0 +1,22 @@
+{{ if .Site.Params.about.enable }}
+{{ "<!-- Tutor Section Start -->" | safeHTML }}
+<section id="tutor">
+    <div class="container">
+        <div class="section-heading">
+            {{ with .Site.Params.tutor.title }}<h2 class="wow fadeInDown" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+        </div>
+        <div class="row">
+            <div class="col-sm-6 mb-4">
+                {{ with .Site.Params.tutor.image }}<img src="{{ . | absURL }}" alt="tutor-image">{{ end }}
+            </div>
+            <div class="col-sm-6">
+                <div class="block">
+                    {{ with .Site.Params.tutor.content }}<p>{{ . | markdownify | safeHTML }}</p>{{ end }}
+                </div>
+            </div>
+        </div>
+        
+    </div> 
+</section>
+{{ "<!-- Tutor Section End -->" | safeHTML }}
+{{ end }}
