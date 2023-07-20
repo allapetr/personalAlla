@@ -8,7 +8,7 @@
 
         <div class="row">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <iframe width="520" height="294" src="https://www.youtube.com/embed/NE9KlQNkf7I"></iframe>
+            {{ with .Site.Params.videos.image }}<img src="{{ . | absURL }}" alt="videos-image">{{ end }}
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <iframe width="520" height="294" src="https://www.youtube.com/embed/UNEfCTXYaAc"></iframe>
         </div>
