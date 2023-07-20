@@ -1,6 +1,6 @@
 baseURL = "https://violinplus.org/"
 languageCode = "en-us"
-title = "Your Finest Music Education | Violin Plus Music Studio"
+title = "Your Finest Online Music Education | Violin Plus Music Studio"
 theme = "timer-hugo"
 
 [blackfriday]
@@ -58,7 +58,7 @@ theme = "timer-hugo"
         bgImage = "images/slider.jpg"
         heading = "Violin & Music Theory"
         description1 = "Do you want to learn to play your favourite tune on the violin, prepare a practical or music theory exam or improve your playing for your own enjoyment? You are in the right place." 
-        description2 = "Violin Plus Music Studio offers the finest online music tuition for all ages and levels. Lessons are taught by a professional violinist with a vast experience in music education and performance who loves teaching music and cares deeply about her students' musical journey."
+        description2 = "Violin Plus Music Studio offers the finest online music tuition for all ages and levels. Lessons are taught by a professional violinist with a vast experience in music education and performance who lives for teaching music and cares deeply about her students' musical journey."
         description3 = "Lessons are currently available in English, Spanish and Romanian."
         btn     = true
         btnText = "Let's meet! Book an online free taster lesson"
@@ -70,7 +70,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "YOUR TUTOR"
-        content = "Hello! My name is Alla Petrichei and I have dedicated most of my life to being a professional violinist and a worldwide educator. My vocation in life is music education and I truly believe in online music tuition. In my 8 years of experience as a teacher, I have taught hundreds of students of all ages and from all corners of the world and I have the ability to teach anyone how to play the violin and how to understand music theory. I studied the violin in numerous academic settings for 20 years and I hold a Performer Diploma in Violin from the [Jacobs School of Music](https://music.indiana.edu) (US) as well as a Bachelor’s and Master's degrees in Violin Performance from the [Royal Northern College of Music](https://www.rncm.ac.uk/) (UK). I am a prize winner in violin international competitions and I am experienced in teaching music in any type of setting (from one-to-one lessons to small and large group classes). Throughout my carrier I collaborated with established educational programmes in the United Stated and in the United Kingdom such as the RNCM Young Strings, the Manchester International Society and the Artis Education Programme, as well as the Antigua Music Camp in Antigua and Barbuda. I approach my teaching with enthusiasm and tailor each lesson to my students’ preferences and needs. I love to guide my students through their learning journey and finding solutions to their struggles along the way gives me great satisfaction. Since 2015, I also train regularly in Dalcroze Eurhythmics, Alexander Technique, Feldenkrais and Kodály Methods, all of which help me provide a creative and body and mind friendly approach to my teaching."
+        content = "Hello! My name is Alla Petrichei and I dedicated most of my life to playing and teaching violin and music in general worldwide. Music education is my vocation and most recently I specialised in online education because I truly believe this is the most powerful way I can serve the world. My experience teaching thousands of students of many ages and from many corners of the world has given me the ability to not only teach anyone in any setting how to play the violin and understand music, but to also empower students in their day to day life through music. My own education spans over 20 years and 3 countries, Romania, the United Kingdom and the United States. I hold a Performer Diploma in Violin from the [Jacobs School of Music](https://music.indiana.edu) (US) as well as a Bachelor’s and Master's degrees in Violin Performance from the [Royal Northern College of Music](https://www.rncm.ac.uk/) (UK). Throughout my carrier I collaborated with established educational programmes in the United Stated and in the United Kingdom such as the RNCM Young Strings, the Manchester International Society and the Artis Education Programme, as well as the Antigua Music Camp in Antigua and Barbuda. I approach my teaching with great enthusiasm and I give my all to solve my students' struggles and to satisfy and nurture their individual needs. My training in Dalcroze Eurhythmics, Alexander Technique, Feldenkrais and Kodály Methods helped me transform my teaching into a holistic practice which focuses on both body and mind and has lasting benefits way outside the classroom."
         image   = "images/DSCF1672.jpg"
 
     # Homepage Mission Section
