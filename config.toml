@@ -84,7 +84,7 @@ theme = "timer-hugo"
         enable  = true
         title   = "GALLERY"
         image   = "images/image1.jpeg"
-        image   = "images/19904885_691114011089638_2379144555636822712_n.jpg"
+        image1   = "images/19904885_691114011089638_2379144555636822712_n.jpg"
         
         
     [params.pricing]
