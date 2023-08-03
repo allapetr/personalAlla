@@ -47,7 +47,7 @@ theme = "timer-hugo"
     logo = "images/logo.png"
     dateFormat = "6 January 2006"
     # Meta data
-    description = "Violin Plus Music Studio"
+    description = "Online violin classes for children, adults and seniors. Click here to learn about violin, meet world class violinist and teacher Alla Petrichei and book your first online music lesson!"
     author = "Alla Petrichei"
     # Google Analitycs
     # googleAnalitycsID = ""
