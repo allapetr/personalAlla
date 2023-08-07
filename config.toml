@@ -33,13 +33,17 @@ theme = "timer-hugo"
         url     = "reviews"
         weight  = 6
     [[menu.nav]]
+        name    = "Blog"
+        url     = "blog"
+        weight  = 7
+    [[menu.nav]]
         name    = "Pricing"
         url     = "pricing"
-        weight  = 7
+        weight  = 8
     [[menu.nav]]
         name    = "Contact"
         url     = "contact"
-        weight  = 8
+        weight  = 9
 
 # Site Params
 [params]
@@ -86,7 +90,10 @@ theme = "timer-hugo"
         title   = "GALLERY"
         image   = "images/image1.jpeg"
         image1  = "images/19904885_691114011089638_2379144555636822712_n.jpg"
-        
+
+    [params.blog]
+        enable  = true
+        title   = "BLOG"
         
     [params.pricing]
         title = "Pricing"
