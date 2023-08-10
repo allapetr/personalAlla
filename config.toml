@@ -94,6 +94,7 @@ theme = "timer-hugo"
     [params.blog]
         enable  = true
         title   = "BLOG"
+        btnURL  = "/blog"
         
     [params.pricing]
         title = "Pricing"
