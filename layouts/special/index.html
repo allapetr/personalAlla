@@ -1,1 +1,22 @@
+<!DOCTYPE HTML>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
+	{{ partial "header.html" . }}
+	<body class="d-flex flex-column">
+    {{ partial "nav.html" . }}
+	
+	<div class="main-page d-flex flex-column flex-fill">
+		<div class="badgehome">
+            <header class="title">
+                <h1>{{ .Site.Params.Banner.title }}</h1>
+            </header>
+            <div class="subtitle">
+                <p>{{ .Site.Params.Banner.subtitle }}</p>
+            </div>
+        </div>
+	</div>
+	{{ "<!-- Scripts -->" | safeHTML}}
+		{{ partial "js.html" . }}
+
+	</body>
+</html>
