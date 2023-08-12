@@ -7,5 +7,5 @@ image: images/blog/PXL_20230601_060414302.jpg
 author: Jamica Jock
 tags: ["motivation", "inspiration"]
 type: "special"
-layout: "reviewslayout"
+layout: "gallerylayout"
 ---
