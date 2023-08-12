@@ -11,16 +11,6 @@
 
     <div class="container">
         <div class="row">
-            <section class="col-md col-lg col-">
-                <header class="">
-                    
-                </header>
-                {{ if .Params.image }}
-                    <span class=""><img src="{{ .Site.Params.baseURL }}/img/{{ .Section }}/{{ .Params.image }}" alt="" /></span>
-                {{ end }}
-                {{ .Content }}
-            </section>
-
             {{ "<!-- Contact -->" | safeHTML}}
             <section id="reviews">
                 <div class="container">
