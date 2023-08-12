@@ -1,22 +1,69 @@
 <!DOCTYPE HTML>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<html>
 
-	{{ partial "header.html" . }}
-	<body class="d-flex flex-column">
+    {{ partial "header.html" . }}
+    <body>
+    
     {{ partial "nav.html" . }}
-	
-	<div class="main-page d-flex flex-column flex-fill">
-		<div class="badgehome">
-            <header class="title">
-                <h1>{{ .Site.Params.Banner.title }}</h1>
-            </header>
-            <div class="subtitle">
-                <p>{{ .Site.Params.Banner.subtitle }}</p>
-            </div>
-        </div>
-	</div>
-	{{ "<!-- Scripts -->" | safeHTML}}
-		{{ partial "js.html" . }}
 
-	</body>
+    <div id="wrapper">
+
+
+    <div class="container">
+        <div class="row">
+            <section class="col-md col-lg col-">
+                <header class="">
+                    
+                </header>
+                {{ if .Params.image }}
+                    <span class=""><img src="{{ .Site.Params.baseURL }}/img/{{ .Section }}/{{ .Params.image }}" alt="" /></span>
+                {{ end }}
+                {{ .Content }}
+            </section>
+
+            {{ "<!-- Contact -->" | safeHTML}}
+            <section class="col-sm col-md">
+                <p>To contact Alla for performances, teaching or other enquiries, please send her a message using the form below:</p>
+                <div class="">
+                    <section>
+                        <form method="post" action="https://formspree.io/{{ .Site.Params.Contact.formEmail }}">
+                            <div class="field half first">
+                                <label for="name">Name</label>
+                                <input type="text" name="name" id="name" />
+                            </div>
+                            <div class="field half">
+                                <label for="email">Email</label>
+                                <input type="text" name="email" id="email" />
+                            </div>
+                            <div class="field">
+                                <label for="message">Message</label>
+                                <textarea name="message" id="message" rows="6"></textarea>
+                            </div>
+                            <ul class="actions">
+                                <li><input type="submit" value="{{ .Site.Params.Contact.buttonSend }}" class="special" /></li>
+                                <li><input type="reset" value="{{ .Site.Params.Contact.buttonClear }}" /></li>
+                            </ul>
+                        </form>
+                    </section>
+                    
+                </div>
+            </section>
+        </div>
+        <div class="row">
+            <div class="col-sm-12 col-md-5">  </div>
+            <div class="col-sm-12 col-md-2">  
+                {{ "<!-- Footer -->" | safeHTML}}
+                    {{ if .Site.Params.footer.enable }}
+                        {{ partial "footer.html" . }}
+                    {{ end }}
+            </div>
+            <div class="col-sm-12 col-md-5">  </div>
+        </div>
+    </div>
+    </div>
+
+    {{ "<!-- Scripts -->" | safeHTML}}
+        {{ partial "js.html" . }}
+
+    </body>
 </html>
