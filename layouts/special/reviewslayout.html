@@ -9,9 +9,9 @@
     <div class="container">
         <div class="row">
             {{ "<!-- Contact -->" | safeHTML}}
-            <section id="reviews" class="global-page-header">
+            <section id="reviews">
                 <div class="container">
-                    <div class="section-heading">
+                    <div class="section-heading" class="global-page-header">
                         {{ with .Site.Data.reviews.title }}<h2 class="wow fadeInDown" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
                     </div>
                     <div class="row">
