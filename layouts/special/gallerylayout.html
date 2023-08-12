@@ -1,1 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+
+    {{ partial "header.html" . }}
+    <body>
+    <div id="wrapper">
+
+    {{ partial "common_header.html" . }}
+        
+    <div class="container">
+        <div class="row">
+            {{ "<!-- Contact -->" | safeHTML}}
+
+            {{ partial "gallery.html" . }}
+        </div>
+        <div class="row">
+            <div class="col-sm-12 col-md-5">  </div>
+            <div class="col-sm-12 col-md-2">  
+                {{ "<!-- Footer -->" | safeHTML}}
+                    {{ if .Site.Params.footer.enable }}
+                        {{ partial "footer.html" . }}
+                    {{ end }}
+            </div>
+            <div class="col-sm-12 col-md-5">  </div>
+        </div>
+    </div>
+    </div>
+
+    {{ "<!-- Scripts -->" | safeHTML}}
+        {{ partial "footer.html" . }}
+
+    </body>
+</html>
 
