@@ -17,8 +17,8 @@ theme = "timer-hugo"
         url     = "tutor"
         weight  = 2
     [[menu.nav]]
-        name    = "Testimonials"
-        url     = "testimonials"
+        name    = "Reviews"
+        url     = "reviews"
         weight  = 3
     # [[menu.nav]]
         # name    = "Gallery"
