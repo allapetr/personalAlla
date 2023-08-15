@@ -2,7 +2,7 @@
 <section id="reviews">
     <div class="container">
         <div class="row">
-            {{ range $index, $elemrnt := .Site.Data.testimonials.item }}
+            {{ range $index, $elemrnt := .Site.Data.reviews.item }}
             <div class="review-body col-sm-6 col-lg-6">
                 {{ with .text }}<p>{{ . }}</p>{{ end }}
                 {{ with .author }}<span>{{ . }}</span>{{ end }}
