@@ -1,5 +1,5 @@
 ---
-title: "Reviews"
+title: "Reviews from students"
 date: 2018-07-15T12:29:40+06:00
 description : "This is meta description"
 type: post
