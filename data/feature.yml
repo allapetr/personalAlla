@@ -1,6 +1,6 @@
 enable  : true
 description : At Violin Plus there is no limit to what you can learn about violin playing and music theory. You can bring to lessons any piece, exercise or question to work on and by the end of your lesson you will notice significant improvement in your sound, technique and understanding of the requested topic. 
-description1 : Bellow you can find a few broad topics we can work on in our lessons, but they are just for guidance and the list does not stop there. Please get in touch to discuss any other ideas, topics or goals for lessons.
+description1 : We can help you prepare for any school or Grade exams, orchestra auditions or solo, chamber music and orchestra performances. Bellow you can find a few broad topics we can work on in our lessons, but they are just for guidance and the list does not stop there. Please get in touch to discuss any other ideas, topics or goals for lessons.
 title   : What Can You Learn?
 subtitle: >
   Multiple things <br> more awesome things
@@ -8,39 +8,43 @@ item    :
   - icon  : ion-ios-play
     title : Online Violin Lessons
     description : >
-      - Reading Western music notation and sight reading
+      - How to have a beautiful sound
 
-      - Elements of music history and theory
+      - How to hold your bow
       
-      - Basic harmony and form
+      - Left arm  technique and how to improve your intonation
 
-      - How to play your instrument (tailored technique)
+      - Vibrato - how to do it and how to improve it
 
-      - Improvisation and composition techniques
+      - How to hold the violin for a correct posture
 
-      - Effective instrument practice
+      - How to practice effectively
 
-      - Effective music memorisation
+      - How to memorize and improve your memorisation skills
 
-      - Performance technique (playing under pressure)
+      - Shifts - how to change positions efficiently and easily
 
-      - Injury prevention and recovery
+      - How to play without pain
 
-      - Preparing for Grades 1-8 examinations
+      - How to play flowlessly any piece or orchestral excerpt
 
   - icon  : ion-ios-musical-notes
     title : Online Music Theory Lessons
     description : >
-      - Reading Western music notation 
+      - How to read Western music notation 
       
-      - Understanding rhythm 
+      - Rhythm - how to notate it and play rhytmically
       
-      - Understanding pitch and transposition
+      - How pitch and transposition work
 
-      - Understanding music history and its important composers and musical figures
+      - Understand music history and important composers and musical figures
 
-      - Understanding musical notation, intervals, keys, scales and harmony
+      - Understand intervals and scales
 
-      - Music analysis
+      - How to transpose
 
-      - Preparing for Grades 1-8 Music Theory examinations
+      - Harmony - how it works and how to harmonize
+
+      - Composition - write your own music
+
+      - How to play by ear and improve your listening skills
