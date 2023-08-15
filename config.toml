@@ -56,7 +56,7 @@ theme = "timer-hugo"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "images/teaching_inspiration.jpg"
+        bgImage = "images/slider.jpg"
         heading = "Violin & Music Theory"
         description1 = "Do you want to learn to play your favourite tune on the violin, prepare for a violin or music theory exam or improve your violin playing for your own enjoyment? You are in the right place." 
         description2 = "Violin Plus Music Studio offers the finest violin and music theory tuition for all ages and levels. Lessons are taught by professional violinist Alla Petrichei who has a vast experience in music education and violin performance."
