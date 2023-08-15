@@ -1,4 +1,5 @@
 enable  : true
+content : hello world
 title   : What Can You Learn?
 subtitle: >
   Multiple things <br> more awesome things
