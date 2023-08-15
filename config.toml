@@ -83,7 +83,7 @@ theme = "timer-hugo"
 
     [params.gallery]
         enable  = true
-        title   = "GALLERY"
+        title   = "Recordings"
         image   = "images/image1.jpeg"
         image1  = "images/19904885_691114011089638_2379144555636822712_n.jpg"
 
