@@ -62,7 +62,7 @@ theme = "timer-hugo"
         description3 = "Lessons are currently available in English, Spanish and Romanian."
         btn     = true
         btnText = "Book a free taster class"
-        btnURL  = "#contact"
+        btnURL  = "/contact"
         [[params.banner.flipText]]
             title   = "Online Lessons"
 
