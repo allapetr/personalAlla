@@ -17,29 +17,30 @@ theme = "timer-hugo"
         url     = "tutor"
         weight  = 2
     [[menu.nav]]
-        name    = "Gallery"
-        url     = "gallery"
+        name    = "Reviews"
+        url     = "reviews"
         weight  = 3
+    # [[menu.nav]]
+        # name    = "Gallery"
+        # url     = "gallery"
+        # weight  = 3
     [[menu.nav]]
         name    = "Learn"
         url     = "learn"
         weight  = 4
-    [[menu.nav]]
-        name    = "Reviews"
-        url     = "reviews"
-        weight  = 5
+    
     [[menu.nav]]
         name    = "Blog"
         url     = "blog"
-        weight  = 6
+        weight  = 5
     [[menu.nav]]
         name    = "Pricing"
         url     = "pricing"
-        weight  = 7
+        weight  = 6
     [[menu.nav]]
         name    = "Contact"
         url     = "contact"
-        weight  = 8
+        weight  = 7
 
 # Site Params
 [params]
