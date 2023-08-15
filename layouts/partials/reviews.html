@@ -1,7 +1,6 @@
 {{ "<!-- Reviews Section Start -->" | safeHTML }}
 <section id="reviews">
     <div class="container">
-        {{ with .Site.Data.feature.content }}<p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">{{ . | safeHTML }}</p>{{ end }}
         <div class="row">
             {{ range $index, $elemrnt := .Site.Data.reviews.item }}
             <div class="review-body col-sm-6 col-lg-6">
