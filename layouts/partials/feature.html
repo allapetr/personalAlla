@@ -3,6 +3,7 @@
 <section id="learn">
     <div class="container">
         {{ with .Site.Data.feature.description }}<p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">{{ . | safeHTML }}</p>{{ end }}
+        {{ with .Site.Data.feature.description1 }}<p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">{{ . | safeHTML }}</p>{{ end }}
         <div class="section-heading">
             <!-- {{ with .Site.Data.feature.subtitle }}<p class="wow fadeInDown" data-wow-delay=".5s">{{ . | safeHTML }}</p>{{ end }} -->
         </div>
