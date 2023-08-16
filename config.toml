@@ -64,6 +64,8 @@ theme = "timer-hugo"
         btn     = true
         btnText = "Read about our mission"
         btnURL  = "#mission"
+        btn1Text = "Book a free trial lesson"
+        btn1URL = "/contact"
         [[params.banner.flipText]]
             title   = "Online Lessons"
 
