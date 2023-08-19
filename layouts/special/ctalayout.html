@@ -1,21 +1,20 @@
 <!DOCTYPE HTML>
 <html>
-
     {{ partial "header.html" . }}
     <body>
-    <div id="wrapper">
+        <div id="wrapper">
+            <div class="container">
+                <div class="row">
+                    {{ "<!-- Contact -->" | safeHTML}}
         
-    <div class="container">
-        <div class="row">
-            {{ "<!-- Contact -->" | safeHTML}}
-
-            {{ partial "cta.html" . }}
+                    {{ partial "cta.html" . }}
+                </div>
+            </div>
         </div>
-    </div>
-    </div>
-
+    
     {{ "<!-- Scripts -->" | safeHTML}}
-        {{ partial "footer.html" . }}
-
+    
+    {{ partial "footer.html" . }}
+        
     </body>
 </html>
