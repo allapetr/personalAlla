@@ -13,6 +13,10 @@ theme = "timer-hugo"
 [menu]
     # Navbar Menus
     [[menu.nav]]
+        name    = "Home"
+        url     = "/"
+        weight  = 1
+    [[menu.nav]]
         name    = "Tutor"
         url     = "tutor"
         weight  = 2
