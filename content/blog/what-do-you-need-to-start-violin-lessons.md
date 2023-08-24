@@ -8,7 +8,9 @@ author: Alla Petrichei
 tags: ["violin lessons", "violin student"]
 ---
 
-Have you been thinking for a while about taking up the violin, or having your child take lessons, but wondered how to get everything you need for the first lesson? I‘ve created a checklist of everything you need to get to take the first step on an exciting musical journey. The two most important items to bring to your first online violin lesson are yourself and a decent internet connection. Yes, you read correctly -- you don’t need to own a violin before our first meeting, which is a free trial lesson!
+## Have you been thinking for a while about taking up the violin, or having your child take lessons, but wondered how to get everything you need for the first lesson? I‘ve created a checklist of everything you need to get to take the first step on an exciting musical journey. 
+
+The two most important items to bring to your first online violin lesson are yourself and a decent internet connection. Yes, you read correctly -- you don’t need to own a violin before our first meeting, which is a free trial lesson!
 
 One of the first things your teacher can help with is choosing the right instrument. Violins come in four sizes, and especially for young students a little guidance may help you choose the right size for your child. Your teacher can also help you to be sure to make the best purchase for your budget. In my experience, you should be able to buy locally or have your violin delivered before your next lesson, but even if there’s a delay that’s no problem at all. There is so much to learn about music in general, so we’ll focus on basic concepts of music theory (which we need to cover anyway, with or without the instrument) and how they work on the violin. This helps students feel more at ease once we’re working with the violin. (“Incorporate” sounds a bit stuffy.)
 
