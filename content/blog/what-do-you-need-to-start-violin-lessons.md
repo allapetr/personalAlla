@@ -8,7 +8,7 @@ author: Alla Petrichei
 tags: ["violin lessons", "violin student"]
 ---
 
-## Have you been thinking for a while about taking up the violin, or having your child take lessons, but wondered how to get everything you need for the first lesson? I‘ve created a checklist of everything you need to get to take the first step on an exciting musical journey. 
+### Have you been thinking for a while about taking up the violin, or having your child take lessons, but wondered how to get everything you need for the first lesson? I‘ve created a checklist of everything you need to get to take the first step on an exciting musical journey. 
 
 The two most important items to bring to your first online violin lesson are yourself and a decent internet connection. Yes, you read correctly -- you don’t need to own a violin before our first meeting, which is a free trial lesson!
 
