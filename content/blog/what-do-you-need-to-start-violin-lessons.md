@@ -39,4 +39,4 @@ Lastly, a spare set of strings. One of the first things violin students learn (a
 
 (Optional) Spare set of strings ✔️
 
-In conclusion, if you want to start learning and can access the internet, you’re ready to book your trial lesson. Music is such a rich field and there is so much to learn! You don’t need to wait to start till you have everything you need! Book your lesson now!
+### In conclusion, if you want to start learning and can access the internet, you’re ready to book your trial lesson. Music is such a rich field and there is so much to learn! You don’t need to wait to start till you have everything you need! Book your lesson now!
