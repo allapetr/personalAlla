@@ -754,7 +754,6 @@ figure figcaption p {
 }
 
 #blog-full-width {
-  font-family: Libre Baskerville;
   padding: 40px 0 80px;
 }
 
@@ -763,7 +762,7 @@ article {
 }
 
 .blog-content h2 {
-  font-family: Libre Baskerville;
+  font-family: 'Roboto', sans-serif;
 }
 
 .blog-content h2 a {
@@ -780,6 +779,7 @@ article {
 
 .blog-content .blog-meta span:after {
   content: '/';
+  font-family: 'Libre Baskerville';
   padding: 0 3px 0 6px;
 }
 
@@ -788,6 +788,7 @@ article {
 }
 
 .blog-content .blog-meta p {
+  font-family: 'Libre Baskerville';
   margin-top: 20px;
 }
 
