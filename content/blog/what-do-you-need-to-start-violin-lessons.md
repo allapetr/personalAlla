@@ -21,8 +21,6 @@ But yes, the violin and bow are the first items you need to purchase, and luckil
 ### Violin ✔️
 ### Bow ✔️
 
-![nancy-hughes-ysyRG_lkmiM-unsplash (1)](https://github.com/allapetr/violin_website/assets/69552018/9b4cad73-b127-4f49-bd59-0d01596533d4)
-
 The third indispensable item is rosin. You cannot produce a good sound without applying this powdery substance to your bow hair. Rosin is a solid form of resin, whose purpose is to create friction between bow and strings to make them vibrate more clearly. It can be purchased from any local or online music store and, if you’re lucky, it may come with your violin and bow: look for it in the little compartment in your case.
 
 Rosin ✔️
@@ -41,5 +39,4 @@ Lastly, a spare set of strings. One of the first things violin students learn (a
 
 (Optional) Spare set of strings ✔️
 
-### In conclusion, if you want to start learning and can access the internet, you’re ready to book your trial lesson. Music is such a rich field and there is so much to learn! You don’t need to wait to start till you have everything you need! Book your lesson now!
-![nancy-hughes-ysyRG_lkmiM-unsplash (1)](https://github.com/allapetr/violin_website/assets/69552018/9b4cad73-b127-4f49-bd59-0d01596533d4)
+### In conclusion, if you want to start learning and can access the internet, you’re ready to book your trial lesson. Music is such a rich field and there is so much to learn! You don’t need to wait to start until you have everything you need! Book your lesson now!
