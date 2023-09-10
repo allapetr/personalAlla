@@ -1,6 +1,6 @@
 ---
 title: "What do you need to start violin lessons?"
-date: 2023-1-8T12:29:40+06:00
+date: 2023-10-09T12:29:40+06:00
 description : "This is meta description"
 type: post
 image: images/blog/post-3.jpg
