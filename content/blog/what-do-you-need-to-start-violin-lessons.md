@@ -16,6 +16,7 @@ One of the first things your teacher can help with is choosing the right instrum
 
 So you see? There really isn’t any reason for you to not book a trial lesson: be brave and do it now! Click [here](www.violinplus.org/contact).
 
+![Violin&bow](nancy-hughes-ysyRG_lkmiM-unsplash (1).png)
 But yes, the violin and bow are the first items you need to purchase, and luckily for beginners they usually come together in a violin case. 
 
 ### Violin ✔️
