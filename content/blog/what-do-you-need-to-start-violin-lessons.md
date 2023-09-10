@@ -16,7 +16,6 @@ One of the first things your teacher can help with is choosing the right instrum
 
 So you see? There really isn’t any reason for you to not book a trial lesson: be brave and do it now! Click [here](www.violinplus.org/contact).
 
-![Violin&bow](nancy-hughes-ysyRG_lkmiM-unsplash (1).png)
 But yes, the violin and bow are the first items you need to purchase, and luckily for beginners they usually come together in a violin case. 
 
 ### Violin ✔️
@@ -41,3 +40,4 @@ Lastly, a spare set of strings. One of the first things violin students learn (a
 (Optional) Spare set of strings ✔️
 
 ### In conclusion, if you want to start learning and can access the internet, you’re ready to book your trial lesson. Music is such a rich field and there is so much to learn! You don’t need to wait to start until you have everything you need! Book your lesson now!
+![nancy-hughes-ysyRG_lkmiM-unsplash (1)](https://github.com/allapetr/violin_website/assets/69552018/a88749b5-de15-4b84-9016-feaef803b3dd)
