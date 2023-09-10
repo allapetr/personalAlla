@@ -3,7 +3,7 @@ title: "What do you need to start violin lessons?"
 date: 2023-09-09T12:29:40+06:00
 description : "This is meta description"
 type: post
-image: images/blog/post-3.jpg
+image: images/blog/violin_lesson.jpg
 author: Alla Petrichei
 tags: ["violin lessons", "violin student"]
 ---
