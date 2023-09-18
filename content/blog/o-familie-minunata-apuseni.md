@@ -5,7 +5,7 @@ description : "This is meta description"
 type: post
 image: images/blog/20230904_085246.jpg
 author: Alla Petrichei
-tags: ["travel", "human connection"]
+tags: ["călătorii", "muzică"]
 ---
 
 ### În dimineața de 4 septembrie părăseam cazarea de la câțiva kilometri nord de Albac împreună cu un prieten belgian căruia îi arătam țara timp de o săptămână cu obiectivul de a explora zona de sud a Parcului Național Apuseni. Este greu să exprim în cuvinte de ce, dar de câteva luni simțeam o dorință arzătoare să ajung în acest colț de țară. Auzisem că are locuri frumoase de vizitat și tradiții care încă se păstrează și ceva mă striga efectiv înspre acolo. Și excelent am făcut că am ascultat acel ceva.
