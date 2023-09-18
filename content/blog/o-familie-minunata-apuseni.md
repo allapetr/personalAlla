@@ -46,6 +46,8 @@ Observ pe masă și o sticlă cu un conținut roz și, când ni se alătură din
 
 Curând iese la iveală și faptul că pe lângă cântăreț de cor bisericesc și muzică populară domnul Ionel este și un dansator desăvârșit și în trecut a antrenat echipa ”foarte bine văzută” de dans moțesc a comunei. În timp ce se retrage din nou, doamna Vetuța afirmă că dânsa ”nu e cu dansul, dar se lasă învârtită de soț” fără probleme. Întrebându-l cum a învățat să danseze, domnul Ionel îmi spune fără să se gândească prea mult că ”așa a fost”, că și frații dânsului ”au jucat în dansuri” în sat așa cum și copiii dânsului la rândul lor au ”prins din mers”.
 
+{{< youtube fW36U1AGfBk >}}
+
 După încă o rundă de vioară clasică din partea mea cu începutul melancolicei Balade de Enescu ni se alătură încă o dată și doamna Vetuța, iar domnul Ionel se lasă în sfârșit convins și ne (în)cântă cu un cântec popular minunat despre ”mândrulița” sa. Ce voce melodioasă și expresivă - m-am simțit foarte norocoasă să fiu acolo atunci.
 
 ![Branza de casa](IMG_0037_copy.JPG)
