@@ -3,9 +3,9 @@ title: "O familie minunată în Scărișoara, Apuseni"
 date: 2023-09-17T12:29:40+06:00
 description : "This is meta description"
 type: post
-image: images/blog/violin_lesson.jpg
+image: images/blog/20230904_095142.jpg
 author: Alla Petrichei
-tags: ["violin lessons", "violin student"]
+tags: ["travel", "human connection"]
 ---
 
 În dimineața de 4 septembrie părăseam cazarea de la câțiva kilometri nord de Albac împreună cu un prieten belgian căruia îi arătam țara timp de o săptămână cu obiectivul de a explora zona de sud a Parcului Național Apuseni. Este greu să exprim în cuvinte de ce, dar de câteva luni simțeam o dorință arzătoare să ajung în acest colț de țară. Auzisem că are locuri frumoase de vizitat și tradiții care încă se păstrează și ceva mă striga efectiv înspre acolo. 
