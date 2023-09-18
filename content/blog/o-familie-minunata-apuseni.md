@@ -12,7 +12,7 @@ tags: ["travel", "human connection"]
 
 Cu o zi în urmă fusesem primită cu “trâmbițe și sulițe” în Țara Moților de o furtuna matinală care a dărâmat pe șosele copaci rupți din rădăcini și a lăsat fără lumină porțiuni din zonă. Așa că dimineața de după era serenă, nemișcată cu excepția râului Arieș care bolborosea mai vânjos acum că ducea în spate și noua apă de ploaie din munți. Albac și primele localități de după mi s-au părut turistice, pline de pensiuni și cu puțină esență rămasă. La volan fiind mă gândeam că dacă așa e toată zona voi considera să schimb traseul, eu întotdeauna încercând să evit cât se poate tot ce e străbătut și râs-străbătut pentru a lăsa loc pentru locurile încă liniștite.
 
-![Casa](20230904_085246 copy.jpg)
+![Casa](20230904_085246_copy.jpg)
 
 Cu gândurile acestea în minte la un momentdat, ieșind dintr-o curbă, observ pe stânga la poalele muntelui, o casă maronie deosebită cu o pajiște verde în față și cu râul curgând foarte frumos chiar prin fața ei. Îmi doream mult să înregistrez un video cu vioara undeva la râu pentru că zona aceasta îmi amintea de verile din copilărie petrecute la munte scăldându-mă în râu, dar încă nu găsisem locul potrivit. Până în clipa aceea. Cumva casa pe care tocmai o găsisem se lăsa văzută exact cum și cât trebuie de la stradă, iar împreună cu râul veșnic curgător creau un colț de-o frumusețe extraordinară.
 
