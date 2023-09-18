@@ -56,8 +56,8 @@ Ca și cum nu ar fi fost suficientă generozitatea și ospitalitatea nemărginit
 
 ![Doamna Vetuta](IMG_0043_copy.JPG)
 
-Cele aproape două ore petrecute în sânul astei familii minunate le-am simțit ca și cum ar fi fost 15 minute și totodată am trăit din plin și țin minte fiecare moment al întâlnirii noastre. Nu voi uita prea curând cât de firesc a decurs totul și cât de deschiși și primitori au fost acești oameni extraordinari cu mine. Mi-au deschis poarta, casa și sufletul lor fără să stea pe gânduri deși nu mă cunoșteau și au fost luați total prin surprindere. M-au văzut cântând de departe și când m-am apropiat (nesigură și timidă inițial) m-au primit cu brațele deschise. 
+Cele aproape două ore petrecute în sânul astei familii minunate le-am simțit ca și cum ar fi fost 15 minute și totodată am trăit din plin și țin minte fiecare moment al întâlnirii noastre. Nu voi uita cât de firesc a decurs totul și cât de deschiși și primitori au fost acești oameni extraordinari cu mine. Mi-au deschis poarta, casa și sufletul lor fără să stea pe gânduri deși nu mă cunoșteau și au fost luați total prin surprindere. M-au văzut cântând de departe și când m-am apropiat (nesigură și timidă inițial) m-au primit cu brațele deschise. 
 
-!De vorba la masa](20230904_102914_copy.jpg)
+![De vorba la masa](20230904_102914_copy.jpg)
 
 Încă am în minte imaginile foarte limpezi cum am ieșit pe poartă, cum am trecut râul înapoi spre șosea și cum îi făceam cu mâna de ”la revedere” domnului Ionel din partea cealaltă a Arieșului. Dânsul urmărea ”divele” patrupede cu cornițe în timp ce se sprijinea în bastonul său, iar eu observam cum devenea din ce în ce mai mic cu cât mă îndepărtăm mai mult. Știu sigur că, deși a fost prima nu va fi și ultima dată când îi întâlnesc. Vă mulțumesc, domnule Ionel, doamna Vetuța, Marius și întrega familie de pretutindeni! Vă doresc numai bine și vă port în suflet.
