@@ -48,7 +48,11 @@ Curând iese la iveală și faptul că pe lângă cântăreț de cor bisericesc 
 
 După încă o rundă de vioară clasică din partea mea cu începutul melancolicei Balade de Enescu ni se alătură încă o dată și doamna Vetuța, iar domnul Ionel se lasă în sfârșit convins și ne (în)cântă cu un cântec popular minunat despre ”mândrulița” sa. Ce voce melodioasă și expresivă - m-am simțit foarte norocoasă să fiu acolo atunci.
 
+![Branza de casa](IMG_0037_copy.JPG)
+
 Ca și cum nu ar fi fost suficientă generozitatea și ospitalitatea nemărginită de până atunci, doamna Vetuța ne invită să luăm mic-dejunul și să continuăm conversația în bucătăria dânșilor. În timp ce savuram brânzica delicioasă făcută de mânuțele dânsei lângă o roșie din grădina din curte și niște ouă, am discutat relaxat multe vrute și nevrute, de la frumusețile naturale din zonă pe care îmi recomandă să le vizitez, la tradițiile aproape pierdute a ”ciubărului” și a făcutului brânzei de casă și până la regionalismele ”mălai” (echivalentul ”porumbului” care devine și ”făină de mălai”) și ”lubenița” (pepenele verde).
+
+![Doamna Vetuta](IMG_0043_copy.JPG)
 
 Cele aproape două ore petrecute în sânul astei familii minunate le-am simțit ca și cum ar fi fost 15 minute și totodată am trăit din plin și țin minte fiecare moment al întâlnirii noastre. Nu voi uita prea curând cât de firesc a decurs totul și cât de deschiși și primitori au fost acești oameni extraordinari cu mine. Mi-au deschis poarta, casa și sufletul lor fără să stea pe gânduri deși nu mă cunoșteau și au fost luați total prin surprindere. M-au văzut cântând de departe și când m-am apropiat (nesigură și timidă inițial) m-au primit cu brațele deschise. 
 
