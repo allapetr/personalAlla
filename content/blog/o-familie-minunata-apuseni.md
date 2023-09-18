@@ -61,3 +61,9 @@ Cele aproape două ore petrecute în sânul astei familii minunate le-am simțit
 ![De vorba la masa](20230904_102914_copy.jpg)
 
 Încă am în minte imaginile foarte limpezi cum am ieșit pe poartă, cum am trecut râul înapoi spre șosea și cum îi făceam cu mâna de ”la revedere” domnului Ionel din partea cealaltă a Arieșului. Dânsul urmărea ”divele” patrupede cu cornițe în timp ce se sprijinea în bastonul său, iar eu observam cum devenea din ce în ce mai mic cu cât mă îndepărtăm mai mult. Știu sigur că, deși a fost prima nu va fi și ultima dată când îi întâlnesc. Vă mulțumesc, domnule Ionel, doamna Vetuța, Marius și întrega familie de pretutindeni! Vă doresc numai bine și vă port în suflet.
+
+
+
+# Vizionați înregistrarea la casa domnului Ionel și a doamnei Vetuța în comuna Scărișoara.
+
+{{< youtube EXLNb7QFyco >}}
