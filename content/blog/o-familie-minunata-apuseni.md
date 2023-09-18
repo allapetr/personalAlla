@@ -28,7 +28,7 @@ Am găsit pe unde să trecem râul și am ajuns la poartă, unde, văzându-ne c
 
 ![Domnul Ionel](IMG_0026_copy.JPG)
 
-Apropiindu-ne de prispa casei de unde ne observau în liniște două persoane de când am pășit în curte, salut din nou, și domnul Ionel îmi face cunoștință cu un alt domn Ionel (un nume des întâlnit în sat, se pare), un prieten, care, voi afla puțin mai târziu, este și acordeonist, și cu Marius, cel de-al treilea copil al familiei, care locuiește în Hunedoara și se află în vizită. Mi le prezintă și pe divele curții, câteva căprițe țanțoșe pe care le observasem fără doar și poate în timpul filmării peste râu și cărora, am realizat atunci, trebuie să le fiu recunoscătoare pentru defrișarea copăceilor de lângă râu (pe care tot i-au ronțăit de zor pe tot parcursul vizitei în ciuda goliciunii deja clare a crenguțelor), care altfel ar obstrucționa vederea minunatei case dinspre stradă.
+Apropiindu-ne de prispa casei de unde ne observau în liniște două persoane de când am pășit în curte, salut din nou, și domnul Ionel îmi face cunoștință cu un alt domn Ionel (un nume des întâlnit în sat, se pare), un prieten, care, voi afla puțin mai târziu, este și acordeonist, și cu Marius, cel de-al treilea copil al familiei, care locuiește în Hunedoara și se află în vizită. Mi le prezintă și pe "divele" curții, câteva căprițe țanțoșe pe care le observasem fără doar și poate în timpul filmării peste râu și cărora, am realizat atunci, trebuie să le fiu recunoscătoare pentru defrișarea copăceilor de lângă râu (pe care tot i-au ronțăit de zor pe tot parcursul vizitei în ciuda goliciunii deja clare a crenguțelor), care altfel ar obstrucționa vederea minunatei case dinspre stradă.
 
 ![Cu toții afară la palavre](20230904_095142_copy.jpg)
 
