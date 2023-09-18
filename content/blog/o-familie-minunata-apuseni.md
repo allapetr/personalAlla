@@ -3,7 +3,7 @@ title: "O familie minunată în Scărișoara, Apuseni"
 date: 2023-09-17T12:29:40+06:00
 description : "This is meta description"
 type: post
-image: images/blog/20230904_095142.jpg
+image: images/blog/20230904_085246.jpg
 author: Alla Petrichei
 tags: ["travel", "human connection"]
 ---
