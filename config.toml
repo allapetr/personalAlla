@@ -107,6 +107,6 @@ theme = "timer-hugo"
     [params.cta]
         enable  = true
         title   = "Get in touch"
-        content = "For bookings and questions about our online classes, please get in touch at info@violinplus.org or by using the form below."
+        content = "For any questions, bookings or enquiries please get in touch at apetrichei@gmail.com or by using the form below."
         btnText = "Send"
         btnURL  = "/contact"
