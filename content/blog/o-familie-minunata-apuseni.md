@@ -1,7 +1,7 @@
 ---
 title: "O familie minunată în Scărișoara, Apuseni"
 date: 2023-09-17T12:29:40+06:00
-description : "This is meta description"
+description : "Dacă ți-a plăcut videoul la râu în Scărișoara, citește despre experiența mea minunată vizitând familia căreia îi aparține casa din fundal."
 type: post
 image: images/blog/20230904_085246.jpg
 author: Alla Petrichei
