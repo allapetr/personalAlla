@@ -64,6 +64,6 @@ Cele aproape două ore petrecute în sânul astei familii minunate le-am simțit
 
 
 
-# Vizionați înregistrarea la casa domnului Ionel și a doamnei Vetuța în comuna Scărișoara.
+# Vizionează înregistrarea la casa domnului Ionel și a doamnei Vetuța din comuna Scărișoara.
 
 {{< youtube EXLNb7QFyco >}}
