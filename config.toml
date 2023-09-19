@@ -84,8 +84,8 @@ theme = "timer-hugo"
     # Homepage Mission Section
     [params.mission]
         enable  = true
-        title   = "OUR MISSION"
-        content = "Violin Plus Music Studio is here to make a lasting difference and it has a clear mission: to offer worldwide access to outstanding digital music education. Inspired from the experience of its founder, Alla Petrichei addresses the worldwide challenge of students to find high quality music education with mentors who have both the best technical and musical knowledge and a well-rounded approach to education centered on wellbeing. Violin Plus connects students from all corners of the world with an outstanding teacher who truly has her students' best interest at heart. There are no boundaries, so let's make the world a better place through music!"
+        title   = "MY MISSION"
+        content = "Since I can remember, I have lived for and breathed music. For 20 years, I studied how to play with this resonating wooden box called a violin and at some point along the way I realized that what I enjoy most is traveling and exploring other cultures. So I travel the world and share its beauties through the sounds of my violin. Join me!"
         image   = "images/20785834_1911840749077278_4433223125080411225_o.jpg"
 
     [params.gallery]
