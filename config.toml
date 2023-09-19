@@ -82,11 +82,11 @@ theme = "timer-hugo"
         btnURL  = "/mission"
 
     # Homepage Mission Section
-    [params.mission]
-        enable  = true
-        title   = "MY MISSION"
-        content = "Since I can remember, I have lived for and breathed music. For 20 years, I studied how to play with this resonating wooden box called a violin and at some point along the way I realized that what I enjoy most is traveling and exploring other cultures. So I travel the world and share its beauties through the sounds of my violin. Join me!"
-        image   = "images/20785834_1911840749077278_4433223125080411225_o.jpg"
+    #[params.mission]
+    #    enable  = true
+    #    title   = "MY MISSION"
+    #    content = "Since I can remember, I have lived for and breathed music. For 20 years, I studied how to play with this resonating wooden box called a violin and at some point along the way I realized that what I enjoy most is traveling and exploring other cultures. So I travel the world and share its beauties through the sounds of my violin. Join me!"
+    #    image   = "images/20785834_1911840749077278_4433223125080411225_o.jpg"
 
     [params.gallery]
         enable  = true
