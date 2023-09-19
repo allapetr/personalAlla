@@ -1,5 +1,5 @@
 ---
-title: "O familie minunată în Scărișoara, Apuseni"
+title: "Despre vizita muzicală la o familie minunată din Scărișoara, Apuseni"
 date: 2023-09-17T12:29:40+06:00
 description : "Dacă ți-a plăcut videoul la râu în Scărișoara, citește despre experiența mea minunată vizitând familia căreia îi aparține casa din fundal."
 type: post
