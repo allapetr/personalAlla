@@ -16,10 +16,10 @@ theme = "timer-hugo"
         name    = "Home"
         url     = "/"
         weight  = 1
-    [[menu.nav]]
-        name    = "About"
-        url     = "tutor"
-        weight  = 2
+    #[[menu.nav]]
+    #    name    = "About"
+    #    url     = "tutor"
+    #    weight  = 2
     # [[menu.nav]]
     #    name    = "Reviews"
     #    url     = "reviews"
