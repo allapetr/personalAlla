@@ -66,8 +66,8 @@ theme = "timer-hugo"
         description2 = "Join me!"
       
         btn     = true
-        btnText = "Read about my mission"
-        btnURL  = "#mission"
+        btnText = "Read my blog"
+        btnURL  = "/blog"
         btn1Text = "Listen to me play"
         btn1URL = "https://www.youtube.com/@allapetrichei"
         [[params.banner.flipText]]
