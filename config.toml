@@ -49,7 +49,7 @@ theme = "timer-hugo"
 # Site Params
 [params]
     home = "Home"
-    logo = "images/logo.png"
+    title = "Alla Petrichei"
     dateFormat = "6 January 2006"
     # Meta data
     description = "Online violin classes for children, adults and seniors. Click here to learn about violin, meet world class violinist and teacher Alla Petrichei and book your first online music lesson!"
