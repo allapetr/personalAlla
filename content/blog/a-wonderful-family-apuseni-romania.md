@@ -1,7 +1,7 @@
 ---
 title: "About my musical visit at a wonderful family in Scărișoara, Romania"
 date: 2023-09-22T12:29:40+06:00
-description : "Music unites us. Read about my wonderful encounter with a Romanian family from Scărișoara."
+description : "Find out about Romanian music and traditions by getting to know a family from a village in the Apuseni Mountains in Romania."
 type: post
 image: images/blog/20230904_085246.jpg
 author: Alla Petrichei
